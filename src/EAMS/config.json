@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "EAMS"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-EAMS-3e5abb1b-547d-48d1-8a80-1bff05b6f957;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
